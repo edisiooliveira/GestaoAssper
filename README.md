@@ -1,2 +1,2 @@
 # GestaoAssper
- Repositorio
+ Repositorio criado assistindo uma aula ao vivo.
